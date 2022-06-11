@@ -17,8 +17,8 @@
 - [x] Init ESLint;
 - [x] Import Tailwind.css;
 - [x] Create Development Branch;
-- [ ] Struct App;
-- [ ] Style App;
+- [x] Struct App;
+- [x] Style App;
 - [ ] Test/Debug;
 
 <!-- This project is finished, feel free to fork/clone and message me if you think anything could be better. -->

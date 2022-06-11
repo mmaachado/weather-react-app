@@ -1,7 +1,14 @@
+import propTypes from 'prop-types';
 import React from 'react';
 
-function Card() {
+function Card({ data }) {
+  const {
+    location,
+    current,
+  } = data;
+
   return (
+
     <div className="bg-white p-6 mt-10 rounded-lg shadow-md">
       <div className="text-center">
         <span className="block text-xl font-bold text-slate-700">Joinville</span>
@@ -23,3 +30,7 @@ function Card() {
 }
 
 export default Card;
+
+Card.propTypes = {
+  data: propTypes.object,
+}.isRequired;

@@ -13,15 +13,15 @@
 <br> -->
 ### Adjusts && fixes
 
-- [x] Create App Structures;
+<!-- - [x] Create App Structures;
 - [x] Init ESLint;
 - [x] Import Tailwind.css;
 - [x] Create Development Branch;
 - [x] Struct App;
 - [x] Style App;
-- [ ] Test/Debug;
+- [x] Test/Debug; -->
 
-<!-- This project is finished, feel free to fork/clone and message me if you think anything could be better. -->
+This project is finished, feel free to fork/clone and message me if you think anything could be better.
 
 ### Frameworks and technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -4,13 +4,16 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/mmaachado/weather-react-app?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/mmaachado/weather-react-app?style=for-the-badge)
 
-<!-- <img src="/src/assets/img/project-preview.png" alt="project-preview.png">
+<img src="/src/img/project-preview.png" alt="project-preview.png">
 
-> Project Preview.
+> Project Preview (Raw data).
 <br>
-<img src="/src/assets/img/project-preview-alt.png" alt="project-preview-alt.png">
+<img src="/src/img/project-preview-alt.png" alt="project-preview-alt.png">
 > Project Preview (User Input).
-<br> -->
+<br>
+<img src="/src/img/project-preview-mobile.png" alt="project-preview-mobile.png">
+> Project Preview (Mobile).
+<br>
 ### Adjusts && fixes
 
 <!-- - [x] Create App Structures;
